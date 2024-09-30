@@ -35,7 +35,8 @@
 
 ## 아키텍처
 
-![undefined (3)](https://github.com/user-attachments/assets/71dd4d0a-b1f4-453d-b9f5-f22caab10d8e)
+![image1](https://github.com/user-attachments/assets/ad35c955-da2f-4fa1-a03e-337e98e91068)
+
 
 ## ERD
 
